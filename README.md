@@ -1,7 +1,7 @@
 
 # Music Store Analysis SQL Project
 
-In this project, I have done analysis on the data of Music Store using the SQL queries. First I have written questions on what I want and then I answered them using the query. Now I have not done advanced questions because I have not learned that much. But in future I will be able to do so.
+In this project, I have done analysis on the data of Music Store using the SQL queries. First I have written questions on what I want and then I answered them using the query. I have not done advanced questions now because I have not learned that much. But in future I will be able to do so.
 
 
 
